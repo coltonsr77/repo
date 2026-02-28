@@ -1,6 +1,6 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>com.coltonsr77.libcurl</id>
+	<name>Libcurl</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
