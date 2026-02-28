@@ -12,13 +12,13 @@ Name: Curl
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.coltonsr77.libcurl
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
-Filename: ./debs/libcurl4_8.7.1_iphone-arm.deb
+Filename: ./debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
