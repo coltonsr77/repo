@@ -1,7 +1,7 @@
 Package: com.coltonsr77.curl
 Version: 8.7.1
 Section: Networking
-Maintainer: Coltonsr77 <coltonsr77@gmail.com>
+Maintainer: coltonsr77 <coltonsr77@gmail.com>
 Depends: com.coltonsr77.libcurl4
 Architecture: iphoneos-arm64
 Filename: ./debs/curl_8.7.1_iphoneos-arm.deb
