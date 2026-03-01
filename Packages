@@ -3,7 +3,7 @@ Version: 8.7.1
 Section: Networking
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: com.coltonsr77.libcurl4
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: ./debs/curl_8.7.1_iphoneos-arm.deb
 Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
@@ -17,7 +17,7 @@ Version: 8.7.1
 Section: Libraries
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: com.coltonsr77.curl
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Filename: ./debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 245 KB
 MD5sum: 5621f916a22375be565c577fbf50e89d
