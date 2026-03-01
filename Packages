@@ -16,7 +16,7 @@ Package: com.coltonsr77.libcurl4
 Version: 8.7.1
 Section: Libraries
 Maintainer: coltonsr77 <coltonsr77@gmail.com>
-Depends: com.coltonsr77.curl
+Depends: 
 Architecture: iphoneos-arm64
 Filename: debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 245 KB
