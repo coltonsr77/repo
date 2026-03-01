@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
 		<version>8.7.1</version>
-		<change>Initial Release</change>
+		<change>Fixed empty tool_hugehelp.c file.</change>
 	</changes>
 </changelog>
