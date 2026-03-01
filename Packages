@@ -14,7 +14,7 @@ Depiction: depictions/com.supermamon.newpackage
 
 Package: com.coltonsr77.libcurl4
 Version: 8.7.1
-Section: Networking
+Section: Libraries
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm64
