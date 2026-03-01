@@ -1,6 +1,6 @@
 Package: com.coltonsr77.curl
 Version: 8.7.1
-Section: Tweaks
+Section: Networking
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm64
