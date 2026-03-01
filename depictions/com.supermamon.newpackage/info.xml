@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>com.coltonsr77.libcurl4</package>
 	</dependencies>
-	<shortDescription>This is a networking tool.</shortDescription>
+	<shortDescription>This is a network tool.</shortDescription>
 	<descriptionlist>
 		<description>This is a network tool.</description>
 		<description>Some app use it.</description>
