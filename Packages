@@ -1,7 +1,7 @@
 Package: com.coltonsr77.curl
 Version: 8.7.1
 Section: Networking
-Maintainer: Coltonsr77 <reposithree@gmail.com>
+Maintainer: Coltonsr77 <coltonsr77@gmail.com>
 Depends: com.coltonsr77.libcurl4
 Architecture: iphoneos-arm64
 Filename: ./debs/curl_8.7.1_iphoneos-arm.deb
@@ -9,7 +9,7 @@ Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
 Description: A nwtworking tool.
 Name: curl
-Author: Reposi3 <reposithree@gmail.com>
+Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
 
 Package: com.coltonsr77.libcurl4
