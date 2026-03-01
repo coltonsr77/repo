@@ -24,7 +24,7 @@ MD5sum: 5621f916a22375be565c577fbf50e89d
 Description: This is a required library for curl.
 Name: libcurl4 (ARM64)
 Author: coltonsr77 <coltonsr77@gmail.com>
-Depiction: depictions/com.supermamon.oldpackage
+Depiction: depictions/com.coltonsr77.libcurl4
 
 Package: com.coltonsr77.curl
 Version: 8.7.1
@@ -52,5 +52,4 @@ MD5sum: 5621f916a22375be565c577fbf50e89d
 Description: This is a required library for curl.
 Name: libcurl4 (ARM)
 Author: coltonsr77 <coltonsr77@gmail.com>
-Depiction: depictions/com.supermamon.oldpackage
-
+Depiction: depictions/com.coltonsr77.libcurl4
