@@ -2,7 +2,7 @@ Package: com.coltonsr77.curl
 Version: 8.7.1
 Section: Networking
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: com.coltonsr77.libcurl4
 Architecture: iphoneos-arm64
 Filename: ./debs/curl_8.7.1_iphoneos-arm.deb
 Size: 854
