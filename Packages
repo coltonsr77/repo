@@ -7,7 +7,7 @@ Architecture: iphoneos-arm64
 Filename: debs/curl_8.7.1_iphoneos-arm.deb
 Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
-Description: This is a networking tool.
+Description: This is a network tool.
 Name: curl (ARM64)
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
@@ -35,7 +35,7 @@ Architecture: iphoneos-arm
 Filename: debs/curl_8.7.1_iphoneos-arm.deb
 Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
-Description: This is a networking tool.
+Description: This is a network tool.
 Name: curl (ARM)
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
