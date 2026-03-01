@@ -1,7 +1,7 @@
 <package>
 	<id>com.coltonsr77.curl</id>
-	<name>Curl</name>
-	<version>8.7.1-1</version>
+	<name>curl</name>
+	<version>8.7.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
