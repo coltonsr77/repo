@@ -31,9 +31,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Fixed empty tool_hugehelp.c file.</change>
 	</changelog>
 	<links>
 		<link>
