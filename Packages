@@ -1,5 +1,5 @@
 Package: com.coltonsr77.curl
-Version: 2.0.0-1
+Version: 8.7.1-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
@@ -13,7 +13,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
 
 Package: com.coltonsr77.libcurl
-Version: 1.0.0-1
+Version: 8.7.1-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
