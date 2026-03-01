@@ -12,7 +12,7 @@ Name: Curl
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
 
-Package: com.coltonsr77.libcurl
+Package: com.coltonsr77.libcurl4
 Version: 8.7.1-1
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
