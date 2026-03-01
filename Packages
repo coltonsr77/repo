@@ -5,7 +5,7 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: com.coltonsr77.libcurl4
 Architecture: iphoneos-arm64
 Filename: ./debs/curl_8.7.1_iphoneos-arm.deb
-Size: 854
+Size: 194 KB
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: curl
@@ -19,7 +19,7 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/libcurl4_8.7.1_iphoneos-arm.deb
-Size: 860
+Size: 245 KB
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: libcurl4
