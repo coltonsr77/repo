@@ -8,7 +8,7 @@ Filename: debs/curl_8.7.1_iphoneos-arm.deb
 Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
 Description: This is a networking tool.
-Name: curl (64-Bit)
+Name: curl (ARM64)
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.supermamon.newpackage
 
@@ -22,7 +22,7 @@ Filename: debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 245 KB
 MD5sum: 5621f916a22375be565c577fbf50e89d
 Description: This is a library for curl.
-Name: libcurl4 (64-Bit)
+Name: libcurl4 (ARM64)
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.supermamon.oldpackage
 
