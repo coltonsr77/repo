@@ -1,10 +1,10 @@
 <package>
 	<id>com.coltonsr77.libcurl4</id>
-	<name>Libcurl4</name>
-	<version>8.7.1-1</version>
+	<name>libcurl4</name>
+	<version>8.7.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>16.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
