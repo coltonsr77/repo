@@ -20,7 +20,7 @@ Depends: firmware (>7.0)
 Architecture: iphoneos-arm64
 Filename: ./debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 245 KB
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: 5621f916a22375be565c577fbf50e89d
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: libcurl4
 Author: Reposi3 <reposithree@gmail.com>
