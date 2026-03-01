@@ -4,7 +4,7 @@ Section: Networking
 Maintainer: coltonsr77 <coltonsr77@gmail.com>
 Depends: com.coltonsr77.libcurl4
 Architecture: iphoneos-arm64
-Filename: ./debs/curl_8.7.1_iphoneos-arm.deb
+Filename: debs/curl_8.7.1_iphoneos-arm.deb
 Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
 Description: This is a networking tool.
@@ -18,7 +18,7 @@ Section: Libraries
 Maintainer: coltonsr77 <coltonsr77@gmail.com>
 Depends: com.coltonsr77.curl
 Architecture: iphoneos-arm64
-Filename: ./debs/libcurl4_8.7.1_iphoneos-arm.deb
+Filename: debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 245 KB
 MD5sum: 5621f916a22375be565c577fbf50e89d
 Description: This is a library for curl.
