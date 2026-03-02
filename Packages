@@ -39,3 +39,17 @@ Description: retrieves files from the web.
 Name: wget
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.wget
+
+Package: com.coltonsr77.wget
+Version: 1.0.26
+Section: Libraries
+Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: debs/wget_1.24.5_iphoneos-arm.deb
+Size: 49 KB
+MD5sum: 43015629e91db79f721fc226e6c33e81
+Description: userspace USB programming library.
+Name: libusb-1.0-0
+Author: coltonsr77 <coltonsr77@gmail.com>
+Depiction: depictions/com.coltonsr77.libusb
