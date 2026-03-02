@@ -1,0 +1,23 @@
+<package>
+	<id>com.coltonsr77.libusb</id>
+	<name>libusb-1.0-0</name>
+	<version>1.0.26-0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a required library for this repo.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixed minor bug fixes.</change>
+	</changelog>
+	<links></links>
+</package>
