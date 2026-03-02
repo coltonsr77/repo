@@ -5,6 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>4.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
