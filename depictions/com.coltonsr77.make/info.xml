@@ -1,0 +1,23 @@
+<package>
+	<id>com.coltonsr77.make</id>
+	<name>make</name>
+	<version>4.4.1-0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>utility for directing compilation.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixed minor bug fixes.</change>
+	</changelog>
+	<links></links>
+</package>
