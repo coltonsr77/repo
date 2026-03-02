@@ -8,7 +8,7 @@ Filename: debs/curl_8.7.1_iphoneos-arm.deb
 Size: 194 KB
 MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
 Description: This is a network tool.
-Name: curl (ARM)
+Name: curl
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.curl
 
@@ -22,7 +22,7 @@ Filename: debs/libcurl4_8.7.1_iphoneos-arm.deb
 Size: 245 KB
 MD5sum: 5621f916a22375be565c577fbf50e89d
 Description: This is a required library for curl.
-Name: libcurl4 (ARM)
+Name: libcurl4
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.libcurl4
 
@@ -31,11 +31,11 @@ Version: 1.24.5
 Section: Networking
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
-Architecture: iphone-arm
+Architecture: iphoneos-arm
 Filename: debs/wget_1.24.5_iphoneos-arm.deb
 Size: 282 KB
 MD5sum: 43015629e91db79f721fc226e6c33e81
 Description: retrieves files from the web.
-Name: wget (ARM)
+Name: wget
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.wget

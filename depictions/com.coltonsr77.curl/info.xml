@@ -1,6 +1,6 @@
 <package>
 	<id>com.coltonsr77.curl</id>
-	<name>curl (ARM)</name>
+	<name>curl</name>
 	<version>8.7.1</version>
 	<compatibility>
 		<firmware>

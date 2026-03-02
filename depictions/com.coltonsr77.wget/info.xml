@@ -1,6 +1,6 @@
 <package>
 	<id>com.coltonsr77.wget</id>
-	<name>wget (ARM)</name>
+	<name>wget</name>
 	<version>1.24.5</version>
 	<compatibility>
 		<firmware>
