@@ -64,6 +64,6 @@ Filename: debs/wget_1.24.5_iphoneos-arm.deb
 Size: 282 KB
 MD5sum: 
 Description: retrieves files from the web.
-Name: wget (ARM)
+Name: wget (ARM64)
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.wget
