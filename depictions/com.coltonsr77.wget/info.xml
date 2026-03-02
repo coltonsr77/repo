@@ -1,0 +1,23 @@
+<package>
+	<id>com.coltonsr77.wget</id>
+	<name>wget (ARM)</name>
+	<version>1.24.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a required library for curl.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixed empty tool_hugehelp.c file.</change>
+	</changelog>
+	<links></links>
+</package>
