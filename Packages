@@ -1,31 +1,3 @@
-Package: com.coltonsr77.curl
-Version: 8.7.1-0
-Section: Networking
-Maintainer: coltonsr77 <coltonsr77@gmail.com>
-Depends: com.coltonsr77.libcurl4
-Architecture: iphoneos-arm
-Filename: debs/curl_8.7.1_iphoneos-arm.deb
-Size: 194 KB
-MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
-Description: This is a network tool.
-Name: curl
-Author: coltonsr77 <coltonsr77@gmail.com>
-Depiction: depictions/com.coltonsr77.curl
-
-Package: com.coltonsr77.libcurl4
-Version: 8.7.1-0
-Section: Libraries
-Maintainer: coltonsr77 <coltonsr77@gmail.com>
-Depends: 
-Architecture: iphoneos-arm
-Filename: debs/libcurl4_8.7.1_iphoneos-arm.deb
-Size: 245 KB
-MD5sum: 5621f916a22375be565c577fbf50e89d
-Description: This is a required library for curl.
-Name: libcurl4
-Author: coltonsr77 <coltonsr77@gmail.com>
-Depiction: depictions/com.coltonsr77.libcurl4
-
 Package: com.coltonsr77.wget
 Version: 1.24.5-0
 Section: Networking
