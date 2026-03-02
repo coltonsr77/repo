@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Locale files.</description>
+		<description>Locale files necesssary for command line tool translation.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
