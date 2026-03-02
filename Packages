@@ -53,3 +53,17 @@ Description: This is a required library for curl.
 Name: libcurl4 (ARM)
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.libcurl4
+
+Package: com.coltonsr77.wget64
+Version: 1.24.5
+Section: Networking
+Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Depends:
+Architecture: iphone-arm64
+Filename: debs/wget_1.24.5_iphoneos-arm.deb
+Size: 282 KB
+MD5sum: 
+Description: retrieves files from the web.
+Name: wget (ARM)
+Author: coltonsr77 <coltonsr77@gmail.com>
+Depiction: depictions/com.coltonsr77.wget
