@@ -48,7 +48,7 @@ Depends:
 Architecture: iphoneos-arm
 Filename: debs/libusb-1.0-0_1.0.26_iphoneos-arm.deb
 Size: 49 KB
-MD5sum: 43015629e91db79f721fc226e6c33e81
+MD5sum: 2869d46630964930e63f7740c8c36825
 Description: userspace USB programming library.
 Name: libusb-1.0-0
 Author: coltonsr77 <coltonsr77@gmail.com>
