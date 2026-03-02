@@ -1,5 +1,5 @@
 Package: com.coltonsr77.curl
-Version: 8.7.1
+Version: 8.7.1-0
 Section: Networking
 Maintainer: coltonsr77 <coltonsr77@gmail.com>
 Depends: com.coltonsr77.libcurl4
@@ -13,7 +13,7 @@ Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.curl
 
 Package: com.coltonsr77.libcurl4
-Version: 8.7.1
+Version: 8.7.1-0
 Section: Libraries
 Maintainer: coltonsr77 <coltonsr77@gmail.com>
 Depends: 
@@ -27,7 +27,7 @@ Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.libcurl4
 
 Package: com.coltonsr77.wget
-Version: 1.24.5
+Version: 1.24.5-0
 Section: Networking
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
@@ -40,13 +40,13 @@ Name: wget
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.wget
 
-Package: com.coltonsr77.wget
-Version: 1.0.26
+Package: com.coltonsr77.libusb
+Version: 1.0.26-0
 Section: Libraries
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
 Architecture: iphoneos-arm
-Filename: debs/wget_1.24.5_iphoneos-arm.deb
+Filename: debs/libusb-1.0-0_1.0.26_iphoneos-arm.deb
 Size: 49 KB
 MD5sum: 43015629e91db79f721fc226e6c33e81
 Description: userspace USB programming library.
