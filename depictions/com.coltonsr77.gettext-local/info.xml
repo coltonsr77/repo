@@ -1,0 +1,23 @@
+<package>
+	<id>com.coltonsr77.gettext-local</id>
+	<name>gettext-localizations</name>
+	<version>2020.10.07-0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Locale files.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Fixed a minor bug fix.</change>
+	</changelog>
+	<links></links>
+</package>

@@ -39,3 +39,17 @@ Description: utility for directing compilation.
 Name: make
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.make
+
+Package: com.coltonsr77.gettext-local
+Version: 2020.10.07-0
+Section: Localizations
+Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: debs/gettext-localiations_2020.10.07_iphoneos-arm.deb
+Size: 223 KB
+MD5sum: 6de97ebc2b9d19721997d979ec887635
+Description: Locale files.
+Name: getext-localizations
+Author: coltonsr77 <coltonsr77@gmail.com>
+Depiction: depictions/com.coltonsr77.gettext-local
