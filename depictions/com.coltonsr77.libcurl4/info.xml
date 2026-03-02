@@ -1,6 +1,6 @@
 <package>
 	<id>com.coltonsr77.libcurl4</id>
-	<name>libcurl4</name>
+	<name>libcurl4 (ARM)</name>
 	<version>8.7.1</version>
 	<compatibility>
 		<firmware>
