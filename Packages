@@ -14,7 +14,7 @@ Depiction: depictions/com.coltonsr77.wget
 
 Package: com.coltonsr77.libusb
 Version: 1.0.26-0
-Section: Libraries
+Section: Development
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
 Architecture: iphoneos-arm, iphoneos-arm64
