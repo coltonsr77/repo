@@ -10,7 +10,7 @@ MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
 Description: This is a network tool.
 Name: curl (ARM64)
 Author: coltonsr77 <coltonsr77@gmail.com>
-Depiction: depictions/com.supermamon.newpackage
+Depiction: depictions/com.coltonsr77.curl
 
 Package: com.coltonsr77.libcurl4-64
 Version: 8.7.1
@@ -38,7 +38,7 @@ MD5sum: 4af0a14a6782472ed8d5ef21ba49e21
 Description: This is a network tool.
 Name: curl (ARM)
 Author: coltonsr77 <coltonsr77@gmail.com>
-Depiction: depictions/com.supermamon.newpackage
+Depiction: depictions/com.coltonsr77.curl
 
 Package: com.coltonsr77.libcurl4
 Version: 8.7.1
