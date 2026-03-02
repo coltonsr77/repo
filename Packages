@@ -49,7 +49,7 @@ Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/gettext-localiations_2020.10.07_iphoneos-arm.deb
 Size: 223 KB
 MD5sum: 6de97ebc2b9d19721997d979ec887635
-Description: Locale files.
+Description: Locale files necessary for command line tool translation.
 Name: getext-localizations
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.gettext-local
