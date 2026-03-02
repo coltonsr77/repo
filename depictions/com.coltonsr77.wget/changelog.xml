@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
 		<version>1.24.5</version>
-		<change>Fixed empty tool_hugehelp.c file.</change>
+		<change>Fixed minor bug fixes.</change>
 	</changes>
 </changelog>

@@ -17,7 +17,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Fixed empty tool_hugehelp.c file.</change>
+		<change>Fixed minor bug fixes.</change>
 	</changelog>
 	<links></links>
 </package>
