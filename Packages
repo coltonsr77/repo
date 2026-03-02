@@ -17,7 +17,7 @@ Version: 1.0.26-0
 Section: Libraries
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/libusb-1.0-0_1.0.26_iphoneos-arm.deb
 Size: 49 KB
 MD5sum: 2869d46630964930e63f7740c8c36825
@@ -31,7 +31,7 @@ Version: 4.4.1-0
 Section: Development
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/make_4.4.1_iphoneos-arm.deb
 Size: 432 KB
 MD5sum: 72716a6c0cb7715cb7f080acc70ab0f2
@@ -45,7 +45,7 @@ Version: 2020.10.07-0
 Section: Localizations
 Mainatainer: coltonsr77 <coltonsr77@gmail.com>
 Depends:
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/gettext-localiations_2020.10.07_iphoneos-arm.deb
 Size: 223 KB
 MD5sum: 6de97ebc2b9d19721997d979ec887635
