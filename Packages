@@ -53,3 +53,17 @@ Description: userspace USB programming library.
 Name: libusb-1.0-0
 Author: coltonsr77 <coltonsr77@gmail.com>
 Depiction: depictions/com.coltonsr77.libusb
+
+Package: com.coltonsr77.make
+Version: 4.4.1-0
+Section: Development
+Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Depends:
+Architecture: iphoneos-arm
+Filename: debs/make_4.4.1_iphoneos-arm.deb
+Size: 432 KB
+MD5sum: 72716a6c0cb7715cb7f080acc70ab0f2
+Description: utility for directing compilation.
+Name: make
+Author: coltonsr77 <coltonsr77@gmail.com>
+Depiction: depictions/com.coltonsr77.make
