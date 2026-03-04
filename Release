@@ -1,8 +1,8 @@
-Origin: Coltonsr77`s Beta Repo
-Label: Coltonsr77`s Beta Repo
+Origin: Coltonsr77`s Repo
+Label: Coltonsr77`s Repo
 Suite: stable
-Version: 1.0
+Version: 2026.03.04
 Codename: ios
 Architectures: iphoneos-arm, iphoneos-arm64
 Components: main
-Description: Coltonsr77's Beta Repo for Cydia.
+Description: Coltonsr77's Repo for Cydia.
