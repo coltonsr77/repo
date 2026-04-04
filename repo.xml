@@ -6,8 +6,8 @@
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Github</name>
-			<url>https://github.com/coltonsr77/</url>
+			<name>Source Code</name>
+			<url>https://github.com/coltonsr77/repo</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
