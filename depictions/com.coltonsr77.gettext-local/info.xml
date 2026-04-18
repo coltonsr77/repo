@@ -4,7 +4,7 @@
 	<version>2020.10.07-0</version>
 	<compatibility>
 		<firmware>
-			<maxIOS>11.0</maxIOS>
+			<maxIOS>11.4</maxIOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
