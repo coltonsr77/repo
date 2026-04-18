@@ -1,5 +1,5 @@
 # repo
-Coltonsr77's repo for apps and tools.
+Coltonsr77's repo for tools.
 #### 1. Your repo is _almost_ ready.
 At this point your repo is basically ready to be added into Cydia.
 You can also visit your repo's homepage by going to `https://username.github.io/repo/`.
