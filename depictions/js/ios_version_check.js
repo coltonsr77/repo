@@ -2,7 +2,7 @@
 most of the code here is writen by Timon Olsthoorn
 Follow him on -
 Github 	- https://github.com/tmnlsthrn
-Twitter - @TimonOlsthoorn
+Twitter/X - @TimonOlsthoorn
 */
 
 /* Lotus - iosver.js
