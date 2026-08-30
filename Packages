@@ -1,7 +1,7 @@
 Package: com.coltonsr77.wget
 Version: 1.24.5-0
 Section: Networking
-Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
 Depends:
 Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/wget_1.24.5_iphoneos-arm.deb
@@ -9,13 +9,13 @@ Size: 282 KB
 MD5sum: 43015629e91db79f721fc226e6c33e81
 Description: retrieves files from the web.
 Name: wget
-Author: coltonsr77 <coltonsr77@gmail.com>
+Author: coltonsr77 <coltonsr77@coltonsr77.net>
 Depiction: depictions/com.coltonsr77.wget
 
 Package: com.coltonsr77.libusb
 Version: 1.0.26-0
 Section: Development
-Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
 Depends:
 Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/libusb-1.0-0_1.0.26_iphoneos-arm.deb
@@ -23,13 +23,13 @@ Size: 49 KB
 MD5sum: 2869d46630964930e63f7740c8c36825
 Description: userspace USB programming library.
 Name: libusb-1.0-0
-Author: coltonsr77 <coltonsr77@gmail.com>
+Author: coltonsr77 <coltonsr77@coltonsr77.net>
 Depiction: depictions/com.coltonsr77.libusb
 
 Package: com.coltonsr77.make
 Version: 4.4.1-0
 Section: Development
-Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
 Depends:
 Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/make_4.4.1_iphoneos-arm.deb
@@ -37,13 +37,13 @@ Size: 432 KB
 MD5sum: 72716a6c0cb7715cb7f080acc70ab0f2
 Description: utility for directing compilation.
 Name: make
-Author: coltonsr77 <coltonsr77@gmail.com>
+Author: coltonsr77 <coltonsr77@coltonsr77.net>
 Depiction: depictions/com.coltonsr77.make
 
 Package: com.coltonsr77.gettext-local
 Version: 2020.10.07-0
 Section: Localizations
-Mainatainer: coltonsr77 <coltonsr77@gmail.com>
+Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
 Depends:
 Architecture: iphoneos-arm, iphoneos-arm64
 Filename: debs/gettext-localiations_2020.10.07_iphoneos-arm.deb
@@ -51,5 +51,5 @@ Size: 223 KB
 MD5sum: 6de97ebc2b9d19721997d979ec887635
 Description: Locale files necessary for command line tool translation.
 Name: getext-localizations
-Author: coltonsr77 <coltonsr77@gmail.com>
+Author: coltonsr77 <coltonsr77@coltonsr77.net>
 Depiction: depictions/com.coltonsr77.gettext-local
