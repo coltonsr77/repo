@@ -13,7 +13,15 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>utility for directing compilation.</description>
+		<description> GNU Make is a utility which controls the generation of executables
+ and other target files of a program from the program's source
+ files. It determines automatically which pieces of a large program
+ need to be (re)created, and issues the commands to (re)create
+ them. Make can be used to organize any task in which targets (files)
+ are to be automatically updated based on input files whenever the
+ corresponding input is newer --- it is not limited to building
+ computer programs. Indeed, Make is a general purpose dependency
+ solver.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
