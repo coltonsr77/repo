@@ -1,7 +1,7 @@
 <package>
 	<id>com.coltonsr77.wget</id>
 	<name>wget</name>
-	<version>1.24.5-0</version>
+	<version>1.24.5</version>
 	<compatibility>
 		<firmware>
 			<maxIOS>11.0</maxIOS>
