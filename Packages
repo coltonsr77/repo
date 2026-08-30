@@ -1,55 +1,79 @@
-Package: com.coltonsr77.wget
-Version: 1.24.5-0
-Section: Networking
-Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
-Depends:
-Architecture: iphoneos-arm, iphoneos-arm64
-Filename: debs/wget_1.24.5_iphoneos-arm.deb
-Size: 282 KB
-MD5sum: 43015629e91db79f721fc226e6c33e81
-Description: retrieves files from the web.
-Name: wget
-Author: coltonsr77 <coltonsr77@coltonsr77.net>
-Depiction: depictions/com.coltonsr77.wget
-
-Package: com.coltonsr77.libusb
-Version: 1.0.26-0
-Section: Development
-Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
-Depends:
-Architecture: iphoneos-arm, iphoneos-arm64
-Filename: debs/libusb-1.0-0_1.0.26_iphoneos-arm.deb
-Size: 49 KB
-MD5sum: 2869d46630964930e63f7740c8c36825
-Description: userspace USB programming library.
-Name: libusb-1.0-0
-Author: coltonsr77 <coltonsr77@coltonsr77.net>
-Depiction: depictions/com.coltonsr77.libusb
-
-Package: com.coltonsr77.make
-Version: 4.4.1-0
-Section: Development
-Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
-Depends:
-Architecture: iphoneos-arm, iphoneos-arm64
-Filename: debs/make_4.4.1_iphoneos-arm.deb
-Size: 432 KB
-MD5sum: 72716a6c0cb7715cb7f080acc70ab0f2
-Description: utility for directing compilation.
-Name: make
-Author: coltonsr77 <coltonsr77@coltonsr77.net>
-Depiction: depictions/com.coltonsr77.make
-
-Package: com.coltonsr77.gettext-local
-Version: 2020.10.07-0
+Package: gettext-localizations
+Version: 2020.10.07
+Architecture: iphoneos-arm
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: libintl8 (>= 0.20.0)
+Conflicts: com.linusyang.localeutf8
+Replaces: com.linusyang.localeutf8
+Filename: debs/gettext-localizations_2020.10.07_iphoneos-arm.deb
+Size: 227392
+MD5sum: 363d6e36d0103b92becf96d8b8dd6d70
+SHA1: 4931cfeef68b7b925b121bd84c76683308613dc4
+SHA256: e0367deb4dafbebfb9c73306c0f7f0e936105e47cde1ec5f35d0cc0734020db7
 Section: Localizations
-Mainatainer: coltonsr77 <coltonsr77@coltonsr77.net>
-Depends:
-Architecture: iphoneos-arm, iphoneos-arm64
-Filename: debs/gettext-localiations_2020.10.07_iphoneos-arm.deb
-Size: 223 KB
-MD5sum: 6de97ebc2b9d19721997d979ec887635
 Description: Locale files necessary for command line tool translation.
-Name: getext-localizations
-Author: coltonsr77 <coltonsr77@coltonsr77.net>
-Depiction: depictions/com.coltonsr77.gettext-local
+Installed-Size: 6256
+Priority: important
+Provides: com.linusyang.localeutf8 (= 99.9)
+
+Package: libusb-1.0-0
+Version: 1.0.26
+Architecture: iphoneos-arm
+Maintainer: Procursus Team <support@procurs.us>
+Filename: debs/libusb-1.0-0_1.0.26_iphoneos-arm.deb
+Size: 50080
+MD5sum: 2869d46630964930e63f7740c8c36825
+SHA1: 2b79c65a0007ad8072b80e44dbfa1388af8719f8
+SHA256: a3bd27f4e76793218d97d50fd638ef9cfa2d2b90b06e03df3b72e1514cfda301
+Section: Development
+Description: userspace USB programming library
+ Library for programming USB applications.
+ .
+ This package contains what you need to run programs that use this
+ library.
+Installed-Size: 188
+
+Package: make
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: Procursus Team <support@procurs.us>
+Depends: libiosexec1 (>= 1.3.1), libintl8
+Filename: debs/make_4.4.1_iphoneos-arm.deb
+Size: 442216
+MD5sum: c5b2068d373138d01fa634b09bfc31e4
+SHA1: 37f30301c2dd9790bbe284f5c5a1bf0e6dc46b41
+SHA256: 0e60fd3a973c3452ca9bd9fc0c965acf0aeaffd043764d546c575d505397afcc
+Section: Development
+Description: utility for directing compilation
+ GNU Make is a utility which controls the generation of executables
+ and other target files of a program from the program's source
+ files. It determines automatically which pieces of a large program
+ need to be (re)created, and issues the commands to (re)create
+ them. Make can be used to organize any task in which targets (files)
+ are to be automatically updated based on input files whenever the
+ corresponding input is newer --- it is not limited to building
+ computer programs. Indeed, Make is a general purpose dependency
+ solver.
+Installed-Size: 1644
+Priority: important
+
+Package: wget
+Version: 1.24.5
+Architecture: iphoneos-arm
+Maintainer: Procursus Team <support@procurs.us>
+Depends: libiosexec1 (>= 1.3.1), libssl3, libpcre2-8-0, libintl8, libunistring5, libidn2-0
+Filename: debs/wget_1.24.5_iphoneos-arm.deb
+Size: 281934
+MD5sum: 2e971d9ffb6c067cb10acc3a511805a0
+SHA1: d0526f311261ee462f41a520b854801e24494860
+SHA256: f8236e8e05daca4ce4ba4dbcde186f1bfd747fb51e5e0277eba33f3241486fd5
+Section: Networking
+Description: retrieves files from the web
+ Wget is a network utility to retrieve files from the web using HTTP(S) and FTP, the two most widely used internet protocols. It works non-interactively, so it will work in the background, after having logged off. The program supports recursive retrieval of web-authoring pages as well as FTP sites -- you can use Wget to make mirrors of archives and home pages or to travel the web like a WWW robot.
+ .
+ Wget works particularly well with slow or unstable connections by continuing to retrieve a document until the document is fully downloaded. Re-getting files from where it left off works on servers (both HTTP and FTP) that support it. Both HTTP and FTP retrievals can be time stamped, so Wget can see if the remote file has changed since the last retrieval and automatically retrieve the new version if it has.
+ .
+ Wget supports proxy servers; this can lighten the network load, speed up retrieval, and provide access behind firewalls.
+Installed-Size: 632
+Priority: important
+
