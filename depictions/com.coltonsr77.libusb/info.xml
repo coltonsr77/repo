@@ -13,7 +13,10 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>userspace USB programming library.</description>
+		<description> Library for programming USB applications.
+ .
+ This package contains what you need to run programs that use this
+ library.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
